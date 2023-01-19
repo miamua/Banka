@@ -4,7 +4,8 @@
 # **Banka**
 
 Figma link:
-https://www.figma.com/file/VqIL6lcyYQEhJsi1UC34pj/Banka?node-id=53%3A1686&t=GVRbtX2dXh9vguus-1
+https://www.figma.com/file/mjsrKYM2rgRih6VcD1O6pC/nanthiporn-chongnoot-design?node-id=1%3A47&t=TWYSnDXjlx54STUv-1
+
 
 ## **Om hemsidan**
 Banka är en bank och finansiell hemsida som säljer finansiella tjänster så som kreditkort, lån och sparande.
