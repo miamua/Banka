@@ -43,32 +43,35 @@ Sedan ska användaren skickas till en annan sida för att slutaföra lånet. (De
     
 
 # **Building the design**
-## **Icons**
+## **Ikoner**
 Jag har använt mig av Plugins i Figma för alla ikoner i projektet.
 
 ### ***Lista av plugins***
-#### **- Iconify** eller https://iconify.design/ för ikoner till nedladdnings knapparna, social media, kreditkort och även ikoner till "How to get started" delen av första sidan.
+#### **- Iconify** eller https://iconify.design/ 
+För ikoner till nedladdnings knapparna, social media, kreditkort och även ikoner till "How to get started" delen av första sidan.
 
-#### **- Magicons Flat Icons by Iconduck** för ikoner av ankan i företagets logga.
+#### **- Magicons Flat Icons by Iconduck** 
+För ikoner av ankan i företagets logga.
 
-#### **- Feather Icons** för pil-ikoner som finns under omdömen.
+#### **- Feather Icons** 
+För pil-ikoner som finns under omdömen.
 
-## **Fonts**
+## **Typsnitt**
 Jag har använt mig av Rubik för all text på hemsidan och Poppins för knapparna.
 Båda fontsen finns redan i Figma.
 
 #### Rubik: https://fonts.google.com/specimen/Rubik?query=Rubik
 #### Poppins: https://fonts.google.com/specimen/Poppins?query=poppins
 
-# **Picture format**
+# **Bildformat**
 Jag har använt mig att WEBP med lossless komprission för alla bilder på hemsidan, eftersom den är liten i storlek och har en snabb laddningstid.
 Med lossless komprission så behålls kvaliteten för bilder på stora skärmar.
 
 För **fallback alternativ** har jag valt jpg då den är väldigt liten i storlek och går väldigt fort att ladda. Den är även supportad av de flesta webbläsare.
 
-## **Logo**
+## **Logga**
 Jag har använt mig av SVG då den är liten i storlek och kan hantera transparenta delar. Den har formatet vektor med lossless kompression vilket gör att min logo inte kommer att bli suddig på större skärmar. Den kan vara animerad och ha olika stilar med css.
 
-## **Logo Fallback-alternative**
+## **Logga Fallback-alternative**
 Jag har valt png som fallback alternativ för min logo då den kan ha transparent bakgrund och ladda snabbare och behålla en god kvalité.
 
