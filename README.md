@@ -17,7 +17,7 @@ På alla sidor så finns det en navbar och en footer som man kan använda för a
 Login och Signup-knappar fungerar inte för tillfället, men är tänkta att länka till en sida för att skapa ett konto och logga in.
 
 ### **Footer**
-About Us ska länkas mot en sida som Handlar om Banka
+About Us ska länkas mot en sida som Handlar om Banka.
 Download-knapparna ska vara länkade till App Store och Google play där användaren kan ladda ner företagets app.
 Sociala knappar är tänkta att länka till företagets sociala media.
 
@@ -25,7 +25,7 @@ Sociala knappar är tänkta att länka till företagets sociala media.
 Här kan användaren hitta information om företagets alla olika tjänster.
 Det ska vara en FAQ och ett avsnitt som visar omdömen från användare.
 Det ska också vara en knapp under dessa som länkar till en annan sida för att skapa ett konto.
-FAQ delen ska visa frågor och svar som kan hjälpa användarna med sina frågor.
+FAQ delen ska vara en accordion och visa frågor och svar som kan hjälpa användarna med sina frågor.
 Omdömes delen ska visa omdömen från användare och man ska kunna kolla på fler omdömen genom att bläddra med knapparna som sitter under omdömena.
 
 ### **Services page**
@@ -65,8 +65,7 @@ Båda fontsen finns redan i Figma.
 #### Poppins: https://fonts.google.com/specimen/Poppins?query=poppins
 
 # **Bildformat**
-Jag har använt mig att WEBP med lossless komprission för alla bilder på hemsidan, eftersom den är liten i storlek och har en snabb laddningstid.
-Med lossless komprission så behålls kvaliteten för bilder på stora skärmar.
+Jag har använt mig av WEBP formatet för alla bilder på hemsidan, eftersom den är liten i storleken och har en snabb laddningstid. Jag har valt lossless komprission på bilderna för att behålla god kvalité och med tanke på att jag inte har så många bilder så påverkas inte laddningstiden så mycket.
 
 För **fallback alternativ** har jag valt jpg då den är väldigt liten i storlek och går väldigt fort att ladda. Den är även supportad av de flesta webbläsare.
 
